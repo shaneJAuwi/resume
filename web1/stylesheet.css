@@ -1,0 +1,60 @@
+
+img {
+	width:200px;
+	float: right;
+	margin-top: 10px;
+}
+
+h1 {
+	width: 30%;
+	 margin-top: 10px;
+	 padding: 30;
+	 border: 0px solid #000;
+	 display: inline-block;
+}
+
+.obj{
+	width:87%;
+	padding: 30;
+	 border: 0px solid #000;
+	 display: inline-block;
+}
+
+
+
+.wrapper {
+	 background: #eee;
+	 max-width: 800px;
+	 min-width: 750px;
+	 margin: 0 auto;
+	 padding: 20px;
+	 display:block;
+	 clear: both;
+	 
+ }
+
+.service h2, .service p{
+	color: #999;
+	margin: 10;
+	text-align: left;
+	border: 0px solid #000;
+	
+}
+
+.service {
+	float: left;
+	background: ;
+	width: 29%;
+	margin: 1%;
+	padding: 1%;
+}
+
+.service1 {
+	float: left;
+	background: #eee;
+	width: 60%;
+	margin: 1%;
+	padding: 1%;
+	border-left: 1px solid #000;
+}
+.
